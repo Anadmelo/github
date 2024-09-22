@@ -52,7 +52,11 @@ header{
 header > h1{
     color: rgb(228, 255, 234);
     font-family: var(--fonte-android);
-    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+
+header > p{
+    padding-bottom: 40px;
 }
 nav{
     background-color: var(--cor5);
